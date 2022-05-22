@@ -2,7 +2,7 @@
 
 LOL 随机英雄选择器 Vue3、Vite、Jsx
 
-[在线访问](https://www.alrale.cn/materials/lol_random_hero/)
+[在线访问](http://g0ngjie.gitee.io/kaerlol-random-hero/)
 
 ![grid.png](grid.png)
 
