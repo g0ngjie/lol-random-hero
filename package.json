@@ -1,0 +1,21 @@
+{
+  "name": "lol-random-hero",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@alrale/common-lib": "^1.0.75",
+    "@vueuse/core": "^8.5.0",
+    "vue": "^3.2.25"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.1",
+    "@vue/babel-plugin-jsx": "^1.1.1",
+    "sass": "^1.51.0",
+    "vite": "^2.9.7"
+  }
+}
